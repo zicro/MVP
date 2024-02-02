@@ -1,4 +1,4 @@
 # MVP
 MVP for MAZE project
 
-![maze-mvp](image_url)
+![maze-mvp](https://github.com/zicro/MVP/blob/main/mvp-maze.PNG)
